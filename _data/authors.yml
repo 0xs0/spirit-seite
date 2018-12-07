@@ -1,76 +1,188 @@
-ghost:
-  username: ghost
-  name: Ghost
-  url_full: http://jekyller.github.io/jasper2/
-  url: jekyller.github.io/jasper2
-  bio: The professional publishing platform
-  picture: assets/images/ghost.png
-  facebook: ghost
-  twitter: tryghost
+herzog:
+  username: herzog
+  name: Michael A. Herzog
+  title: Wissenschaftlicher Leiter
+  url_full: http://
+  bio:
+  picture: assets/images/Mitarbeiterfotos/herzog.jpg
   cover: False
-hannah:
-  username: hannah
-  name: Hannah Wolfe
-  location: London, UK
-  url_full: http://hannah.wf/
-  url: hannah.wf
-  bio: Hannah is the co-founder and lead developer at Ghost. She spends her days looking after Ghost's developer community, tracking down bugs & ensuring Ghost(Pro) is a happy place.
-  picture: assets/images/hannah.jpg
-  facebook: False
-  twitter: erisds
-  cover: assets/images/hannah-cover.jpg
-john:
-  username: john
-  name: John O'Nolan
-  location: On a plane
-  url_full: http://john.onolan.org/
-  url: john.onolan.org
-  bio: Founder at Ghost.org. Writes about open source, startup life, non-profits, and publishing platforms. Travels the world with a bag of kites.
-  picture: assets/images/john.jpg
-  facebook: False
-  twitter: False
-  cover: False
-lewis:
-  username: lewis
-  name: Lewis Carroll
-  location: Cheshire, England
+  email: michael.herzog@hs-magdeburg.de
+friedewald:
+  username: friedewald
+  name: Olaf Friedewald
+  title: Wissenschaftlicher Leiter
   url_full: False
-  url: False
-  bio: My real name is Charles Lutwidge Dodgson, but people call me Lewis. I'm an English writer, mathematician, logician, Anglican deacon and photographer. People know me best for writing about Alice.
-  picture: assets/images/lewis.jpeg
-  facebook: False
-  twitter: False
+  bio:
+  picture: assets/images/Mitarbeiterfotos/friedewald.jpg
   cover: False
-abraham:
-  username: abraham
-  name: Abraham Lincoln
-  location: Kentucky, USA
+  email: olaf.friedewald@hs-magdeburg.de
+franz:
+  username: franz
+  name: Leonore Franz
+  title: Stv. Leiter, Organisation
+  projekt: Qualitätspackt Lehre, DBM
   url_full: False
-  url: False
-  bio: I was the 16th president of the USA until I was assassinated in April of 1865. I led the US through its Civil War - its bloodiest and greatest moral, constitutional and political crisis.
-  picture: assets/images/abraham.jpg
-  facebook: False
-  twitter: False
+  bio:
+  picture: assets/images/Mitarbeiterfotos/franz.jpg
   cover: False
-edgar:
-  username: edgar
-  name: Edgar Rice Burroughs
-  location: Chicago, Illinois
+  email: leonore.franz@hs-magdeburg.de
+galler:
+  username: galler
+  name: Elke Mählitz-Galler
+  title: Stv. Leiter
+  projekt: Qualitätspakt Lehre
   url_full: False
-  url: False
-  bio: I'm an American novelist, best known for my work writing about a brave jungle hero called Tarzan and his muse, Jane.
-  picture: assets/images/edgar.gif
-  facebook: False
-  twitter: False
+  bio:
+  picture: assets/images/Mitarbeiterfotos/galler.jpg
   cover: False
-martin:
-  username: martin
-  name: Martin Luther King
-  location: Memphis, Tennessee
+  email: elke.maehlitz@hs-magdeburg.de
+schueßler:
+  username: schueßler
+  name: Philipp Schüßler
+  title: Leitung Lab, Scientific Resource Manager
+  projekt: NachLEBEN
   url_full: False
-  url: False
-  bio: An American pastor, activist, humanitarian. People know me for leading the African-American Civil Rights movement using nonviolent civil disobedience.
-  picture: assets/images/martin.jpg
-  facebook: False
-  twitter: False
+  bio:
+  picture: assets/images/Mitarbeiterfotos/schlueßler.jpg
   cover: False
+  email: philipp.schuessler@hs-magdeburg.de
+batz:
+  username: batz
+  name: Victoria Batz
+  title: PR Managment
+  projekt: IKKE
+  url_full: False
+  bio:
+  picture: assets/images/Mitarbeiterfotos/batz.jpg
+  cover: False
+  email: victoria.batz@gmail.de
+magarin:
+  username: magarin
+  name: Klaus Magarin
+  title: Beschaffung, Inventar
+  projekt: Qualitätspakt Lehre
+  url_full: False
+  bio:
+  picture: assets/images/Mitarbeiterfotos/magarin.jpg
+  cover: False
+  email: klaus.magarin@hs-magdeburg.de
+laske:
+  username: laske
+  name: Theresia Laske
+  title: HR Managment
+  projekt: ROLAND
+  url_full: False
+  bio:
+  picture: assets/images/Mitarbeiterfotos/laske.jpg
+  cover: False
+  email: theresia.laske@hs-magdeburg.de
+schuller:
+  username: schuller
+  name: Leon Schuller
+  title: Studentische Hilfskraft
+  projekt: DiMediCa
+  url_full: False
+  bio: False
+  picture: assets/images/Mitarbeiterfotos/schuller.jpg
+  cover: False
+  email: false
+neumann:
+  username: neumann
+  name: Maximilian Neumann
+  title: Studentische Hilfskraft
+  projekt: IKKE
+  url_full: False
+  bio: False
+  picture: assets/images/Mitarbeiterfotos/neumann.jpg
+  cover: False
+  email: false
+Riese:
+  username: riese
+  name: Amelie Riese
+  title: Studentische Hilfskraft
+  projekt: NachLEBEN
+  url_full: False
+  bio: False
+  picture: assets/images/Mitarbeiterfotos/riese.jpg
+  cover: False
+  email: false
+krebs:
+  username: krebs
+  name: Simon Krebs
+  title: Studentische Hilfskraft
+  projekt: Qualitätspackt Lehre, DBM
+  url_full: False
+  bio: False
+  picture: assets/images/Mitarbeiterfotos/krebs.jpg
+  cover: False
+  email: false
+friedl:
+  username: friedl
+  name: Oliver Friedl
+  title: Studentische Hilfskraft
+  projekt: Qualitätspackt Lehre, DB;
+  url_full: False
+  bio: False
+  picture: assets/images/Mitarbeiterfotos/friedl.jpg
+  cover: False
+  email: false
+albrecht:
+  username: albrecht
+  name: Elisabeth Albrecht
+  title: Studentische Hilfskraft
+  projekt: Qualitätspackt Lehre
+  url_full: False
+  bio: False
+  picture: assets/images/Mitarbeiterfotos/albrecht.jpg
+  cover: False
+  email: false
+reinecke:
+  username: reinecke
+  name: Julian Reinecke
+  title: Studentische Hilfskraft
+  projekt: Qualitätspackt Lehre
+  url_full: False
+  bio: False
+  picture: assets/images/Mitarbeiterfotos/reinecke.jpg
+  cover: False
+  email: false
+ahlers:
+  username: ahlers
+  name: Janet Ahlers
+  title: Studentische Hilfskraft
+  projekt: Qualitätspackt Lehre
+  url_full: False
+  bio: False
+  picture: assets/images/Mitarbeiterfotos/ahlers.jpg
+  cover: False
+  email: false
+osterburg:
+  username: osterburg
+  name: Paul Osterburg
+  title: Studentische Hilfskraft
+  projekt: ROLAND
+  url_full: False
+  bio: False
+  picture: assets/images/Mitarbeiterfotos/osterburg.jpg
+  cover: False
+  email: false
+neu:
+  username: neu
+  name: Jakob Neu
+  title: Studentische Hilfskraft
+  projekt: IKKE
+  url_full: False
+  bio: False
+  picture: assets/images/Mitarbeiterfotos/neu.jpg
+  cover: False
+  email: false
+gustavs:
+  username: gustavs
+  name: Simon Gustavs
+  title: Studentische Hilfskraft
+  projekt: NachLEBEN
+  url_full: False
+  bio: False
+  picture: assets/images/Mitarbeiterfotos/gustavs.jpg
+  cover: False
+  email: false
