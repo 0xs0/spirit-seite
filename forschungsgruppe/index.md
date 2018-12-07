@@ -42,6 +42,6 @@ Das Team lädt regelmäßig zu Kolloquien und anderen Veranstaltungen ein, zu de
  {% endif %}
 
  {% if author[1].picture %}
-  <img src="/jasper2/{{ author[1].picture }}">
+  <img src="/{{ author[1].picture }}">
  {% endif %}
 {% endfor %}
