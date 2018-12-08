@@ -345,6 +345,19 @@ ul {
     padding-right: 1.5em;
 }
 
+nav ul {
+    list-style-type: none;
+}
+nav li {
+    line-height: 30px;
+}
+nav a {
+    text-decoration: none;
+}
+nav li.active a {
+    color: #ffffff;
+}
+
 ol ol,
 ul ul,
 ul ol,

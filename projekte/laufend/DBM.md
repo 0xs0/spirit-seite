@@ -1,6 +1,12 @@
-
-##Was ist der Master Digital Business Management (DBM) M.Sc.?
-(Foto/Hintergrund)
+---
+layout: page
+current: Laufend
+title: Was ist der Master Digital Business Management (DBM) M.Sc.?
+navigation: true
+cover: 'assets/images/tags.jpg'
+class: page-template
+subclass: 'post page'
+---
 
 Der Master Digital Business Management ist ein berufsbegleitender, in Vollzeit (4 Semester) oder Teilzeit (6 Semester) studierbarer, Studiengang. Ca. 80% der Lehrveranstaltungen und Selbstlerneinheiten werden online angeboten. Zusätzlich drei bis vier Präsenzen im Halbjahr finden auf dem Magdeburger Campus statt.
 
@@ -20,11 +26,11 @@ Unsere Themen:
 - Leadership und Management
 
 
-####Warum braucht es DBM-Studierende?
+#### Warum braucht es DBM-Studierende?
 
 Die Digitalisierung verändert und schafft immer mehr Märkte. Sie verändert aber auch gelichzeitig das Anforderungsprofil der Arbeitnehmer/innen. Daher braucht es Führungskräfte, die digitale Transformation begleiten und vermitteln. Unsere Absolvent/innen agieren als Agents of Change und helfen, alle Mitarbeiter/innen in die Neugestaltung der Unternehmenskommunikation und -kultur einzubinden. Sie treiben die Vernetzung innerhalb eines Unternehmens oder als Berater/innen im Mittelstand voran.
 
-####Organisatorisches zum Studium
+#### Organisatorisches zum Studium
 
 - Der Master Digital Business Management ist in Vollzeit in vier Semestern oder berufsbegleitend in Teilzeit in sechs Semestern studierbar und für den Erwerb von 120 Credits konzipiert. Studienbeginn für das Studium mit Präsenzanteil ist zum Sommersemester (Bewerbungsfrist endet am 01.03.) oder Wintersemester (Bewerbungsfrist endet am 01.09.) des Jahres. Das Studium wird mit einer Master-Thesis abgeschlossen.
 - Die Studiengebühren betragen in Vollzeit 2.925€ pro Semester, in Teilzeit 1.950€ pro Semester. Die Studiengebühren können sinken, wenn Ihnen vorhandene Qualifikationen und Kompetenzen aus der Berufspraxis, der individuellen Weiterbildung oder ähnlichem angerechnet werden.
@@ -34,7 +40,7 @@ Die Digitalisierung verändert und schafft immer mehr Märkte. Sie verändert ab
 
 ![Semesterablauf](Bilder/Semesterablauf_dbm.png)
 
-####Wie sieht das Studium aus?
+#### Wie sieht das Studium aus?
 
 - Unser flexibles Studienmodell bietet Ihnen interaktive Seminaren, Projekten und weitere Lehrveranstaltungen im On- und Offlineformat durch digitale Selbstlernphasen und virtuelle Kollaboration sowie Präsenzlehre. Durch die Flexibilisierung und Adaptierung der Lernumgebungen können Sie, als berufsbegleitende Studierende, Ihre Arbeitslast besser über das Semester verteilen.
 - Im Studium werden diverse Lehr- und Lernformate wie z.B. Bloggen, Flipped Classroom und interdisziplinäre Projektarbeit genutzt. Des Weiteren werden in jedem Modul E-Learning-Elemente verwendet, um einen kontinuierliche Begleitung der Studierenden über das Semester ortsunabhängig zu gewährleisten. Kollaboratives Arbeiten über digitale Formate wird dabei forciert, um den Anforderungen der Arbeitswelt möglichst nahe zu kommen. Lehrinnovationen, vor allem der Einsatz digitaler Technologien zu Lehr-Lernzwecken, werden von der Studiengangsleitung und den Lehrenden gefördert.
@@ -45,29 +51,29 @@ Die Digitalisierung verändert und schafft immer mehr Märkte. Sie verändert ab
 
 Zur Bewältigung der strategischen, taktischen und operativen Tätigkeiten in Unternehmen im digitalen Zeitalter, werden Sie als Absolvent/innen folgende Kompetenzen erwerben:
 
-#####Informations- und Medienkompetenz:
+###### Informations- und Medienkompetenz:
 Sie lernen Informationstechnologien effektiv zu nutzen, sowie Informationen und Wissen zu managen. Darüber hinaus sind Sie in der Lage ein Informationssystem anpassen, einrichten, pflegen, nutzen und leiten sowie dessen Auswirkungen auf Organisationen zu erkennen und zu beeinflussen.
-#####Kommunikationskompetenz:
+###### Kommunikationskompetenz:
 Dazu gehören die Fähigkeiten zuzuhören, zu verhandeln, andere zu überzeugen, effektiv im Team zu arbeiten und die Verantwortung in einem Team zu übernehmen. 
 Darüber hinaus lernen Sie wissenschaftliche Erkenntnisse Fachvertretern und Laien in klarer und eindeutiger Weise sowohl mündlich als auch schriftlich zu vermitteln.
-#####Projektmanagementkompetenz:
+###### Projektmanagementkompetenz:
 Im Studium werden Sie selbstgesteuert eigenständige forschungs- oder anwendungsorientierte Projekte gestalten, planen, durchführen, steuern und analysieren, sowie interdisziplinäre Aufgaben koordinieren.
-#####Technische Kompetenz:
+###### Technische Kompetenz:
 Sie lernen kompatible Hard- und Software auszuwählen und zu verwenden. Zusätzlich werden sie in der Lage sein, adäquate Kommunikationstechnologien in Organisationen in einer wissensbasierten globalen Wirtschaft einzurichten, zu betreiben und effektiv anzuwenden.
-#####Leadership und Strategiekompetenzen:
+###### Leadership und Strategiekompetenzen:
 Nach dem DBM-Studium können Sie die Wechselwirkungen zwischen Umfeldfaktoren und Organisationen verstehen, antizipieren und zweckmäßige Handlungen im Unternehmen initiieren. Außerdem sind Sie in der Lage Personalressourcen in Organisationen zu erkennen, zu entwickeln und zu führen. Sie werden bereit sein sich in komplexen Situationen durchsetzen und aktuelle und übergreifende Themen erkennen können, aufgreifen und im Sinne des Change Managements Veränderungen im Zeitablauf verfolgen, um angemessen zu agieren.
-#####Innovationskompetenz:
+###### Innovationskompetenz:
 Sie lernen kreativ mit bestehenden Lösungen und Wissensbeständen umzugehen, sowie eigene und fremde Ideen kritisch zu bewerten. Außerdem können Sie neue bzw. innovative Konzepte und Problemlösungen herleiten und gestalten. Im Studium werden Ihnen darüber hinaus Kenntnisse und Fähigkeiten vermittelt, die es Ihnen ermöglichen Innovationsprozesse in Unternehmen einzuleiten und entsprechende Faktoren zu kennen, die eine Innovationskultur schaffen.
-#####Forschungskompetenz:
+###### Forschungskompetenz:
 Ein Fokus des Studiums ist die sachgemäße Anwendung einschlägiger qualitative und quantitative Forschungsmethoden/-techniken. Sie werden lernen Ihre wissenschaftliche Argumentationen weiterzuentwickeln, fremde und eigene Arbeiten wissenschaftlich zu analysieren, bewerten und reflektieren, sowie das eigne problemlösungs- und erkenntnisgeleitete Handeln regulieren und reflektieren.
-#####Studienbegleitendes ePortfolio:
+###### Studienbegleitendes ePortfolio:
 Das gesamte Studium wird durch ein ePortfolio begleitet. Sie besteht im Wesentlichen aus der Dokumentation des eigenen Lernfortschritts in einem eigenen Blog. Ergänzend wird eine regelmäßige Reflexion der Inhalte mit Lehrenden und anderen Teilnehmer/innen und offenen Online-Diskussionsveranstaltungen verknüpft. 
 Das E-Portfolio bietet Ihnen die Möglichkeit Ihr Studium besser zu strukturieren. Sie reflektieren dabei Ihren eigenen Entwicklungsprozess und ihre erworbenen Kompetenzen. Des Weiteren können Sie Ihre erworbenen Kompetenzen und Fähigkeiten anschaulich präsentieren und für Ihre Karriere nach dem Studium nutzen.
-#####Wissenschaft und Praxis:
+###### Wissenschaft und Praxis:
 Die Verbindung von praxisnaher und wissenschaftlich fundierter Lehre hilft Ihnen als Studierende Ihren beruflichen Alltag systematisch zu reflektieren. In Praxisprojektenmit namenhaften Partnern aus Wirtschaft und Gesellschaft bearbeiten Sie Herausforderungen aus dem Arbeitsalltag von Unternehmen und finden digitale Lösungen. Sie können so einen qualifizierten Transfer wissenschaftlicher Erkenntnisse in die Berufspraxis schaffen.
 
 
-####Weitere Informationen
+###### Weitere Informationen
 
 - Zulassung: einschlägiger Bachelorabschluss, 1 Jahr Berufspraxis
 - bzw. über Eingangsprüfung ohne ersten akademischen Grad

@@ -3,12 +3,11 @@ layout: page
 current: Forschungsgruppe
 title: Forschungsgruppe
 navigation: true
-logo: 'assets/images/ghost.png'
+cover: 'assets/images/Forschungsgruppe/10_groß.jpg'
 class: page-template
 subclass: 'post page'
+navigation_weight: 1
 ---
-
-
 
 Die Forschungsgruppe SPiRIT – Sciene Projects in Radio and Information Technology ist eine interdisziplinäre Einrichtung des Instituts für Management und des Instituts für Elektrotechnik der Hochschule Magdeburg-Stendal. Sie wurde im Sommer 2012 von Michael Herzog und Olaf Friedewald als ThinkTank und Projektschmiede gegründet.
 

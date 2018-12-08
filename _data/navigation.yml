@@ -1,0 +1,13 @@
+- title: Home
+  url:
+- title: Forschungsgruppe
+  url: forschungsgruppe
+  sublinks:
+    - title: test
+- title: Projekte
+  url: projekte
+  sublinks:
+    - title: Laufende
+      url: /projekte/laufende
+    - title: Abgeschlossene
+      url: projekte/abgeschlossene
