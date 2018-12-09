@@ -14,3 +14,11 @@ getting-started:
   name: getting-started
   description: False
   cover: False
+Monografien:
+  name: Monografien
+  description: False
+  cover: false
+Journalartikel:
+  name: Journalartikel
+  description: False
+  cover: false

@@ -7,9 +7,14 @@
                 <a class="site-nav-logo" href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>
             {% endif %}
         {% endif %}
+        <nav id="navbar" class="collapse navbar-collapse">
         {% if page.navigation %}
             {% include navigation.html %}
+            {% comment %}
+                {% include nav-bar.html %}
+            {% endcomment %}
         {% endif %}
+        </nav>
     </div>
     <div class="site-nav-right">
         <div class="social-links">
