@@ -12,7 +12,7 @@ class: post-template
 
 Prof. Dr. Heike Winschiers-Theophilus, Namibia University of Science & Technology
 
-16.5.2017, 16 Uhr Campus Stendal, 3.0.09
+_16.5.2017, 16 Uhr Campus Stendal, 3.0.09_
 
 Knowledge representations and conceptualisations of the world differ profoundly across cultures and knowledge systems. Current technology designs are deeply anchored in a Western epistemology which is often conflicting with indigenous conceptualisations. Thus we pursue a locally situated approach to co- creating a new digital reality with indigenous knowledge holders in Namibia. We have developed a number of prototypes to support the preservation of indigenous knowledge.  Lessons learned and open research questions are shared in the presentation.
 
