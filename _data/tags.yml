@@ -17,8 +17,12 @@ getting-started:
 Monografien:
   name: Monografien
   description: False
-  cover: false
+  cover: False
 Journalartikel:
   name: Journalartikel
   description: False
-  cover: false
+  cover: False
+ongoing-project:
+  name: laufendes Projekt
+  description: False
+  cover: False

@@ -85,6 +85,18 @@ body {
 
 */
 
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.column-1,
+.column-2,
+.column-3 {
+    float: left;
+    width: 33%;
+}
+
 /* 3. Special Template Styles
 /* ---------------------------------------------------------- */
 
@@ -415,22 +427,22 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     position: relative;
     display: flex;
     flex-wrap: wrap;
-    margin: 0 -20px;
+    margin: 0 -200px;
     padding: 40px 0 0 0;
+    justify-content: center;
 }
 
 .post-card {
     flex: 1 1 300px;
     display: flex;
     flex-direction: column;
-    overflow: hidden;
     margin: 0 20px 40px;
-    min-height: 300px;
     background: #fff center center;
     background-size: cover;
     border-radius: 5px;
     box-shadow: rgba(39,44,49,0.06) 8px 14px 38px, rgba(39, 44, 49, 0.03) 1px 3px 8px;
     transition: all 0.5s ease;
+    max-width: 500px;
 }
 
 .post-card:hover {
