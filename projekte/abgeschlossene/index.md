@@ -1,8 +1,20 @@
 ---
-layout: page
-current: page
+layout: default
 class: 'page-template'
 navigation: True
 ---
 
-<div class="post-feed">{%  include finished-project-card.html %}</div>
+
+<header class="site-header outer">
+    <div class="inner">
+        {% include site-nav.html %}
+    </div>
+    
+</header>
+<main id="site-main" class="site-main outer" role="main">
+    <div class="inner">
+		<div class="post-feed">
+            {%  include finished-project-card.html %}
+        </div>
+	</div>
+</main>
