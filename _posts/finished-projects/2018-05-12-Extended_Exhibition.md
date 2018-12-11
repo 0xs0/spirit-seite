@@ -1,6 +1,7 @@
 ---
 layout: post
 current: post
+navigation: true
 title: Kontextsensitive Kommunikationstechnik
 cover: 'assets/images/Extended-Exhibition/EE.jpg'
 class: post-template

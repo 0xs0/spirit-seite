@@ -2,6 +2,7 @@
 layout: default
 current: post
 class: post-template
+navigation: true
 disqus: false
 ---
 
@@ -12,7 +13,7 @@ into the {body} of the default.hbs template -->
 
 <header class="site-header outer">
     <div class="inner">
-        {% include nav-bar.html %}
+        {% include site-nav.html %}
     </div>
 </header>
 
@@ -45,7 +46,7 @@ into the {body} of the default.hbs template -->
     </div>
 </main>
 
-<!-- Links to Previous/Next posts -->
+<!-- Links to Previous/Next posts 
 <aside class="read-next outer">
     <div class="inner">
         <div class="read-next-feed">
@@ -105,15 +106,17 @@ into the {body} of the default.hbs template -->
                 {% endif %}
             {% endif %}
 
-            <!-- If there's a next post, display it using the same markup included from - partials/post-card.hbs -->
+            If there's a next post, display it using the same markup included from - partials/post-card.hbs 
             {% if page.next %}
                 {% include post-card-next.html %}
             {% endif %}
 
-            <!-- If there's a previous post, display it using the same markup included from - partials/post-card.hbs -->
+             If there's a previous post, display it using the same markup included from - partials/post-card.hbs 
             {% if page.previous %}
                 {% include post-card-previous.html %}
             {% endif %}
+
+            -->
 
         </div>
     </div>

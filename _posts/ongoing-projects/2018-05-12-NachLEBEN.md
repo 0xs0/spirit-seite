@@ -1,6 +1,7 @@
 ---
 layout: post
 current: post
+navigation: true
 title: NachLEBEN
 class: post-template
 subclass: 'post page'

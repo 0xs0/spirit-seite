@@ -1,6 +1,7 @@
 ---
 layout: post
 current: post
+navigation: true
 title: Cross Teaching in der E-Business Ausbildung
 cover: 'assets/images/bus.jpg'
 class: post-template
