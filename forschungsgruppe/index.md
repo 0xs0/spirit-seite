@@ -19,28 +19,4 @@ Die erfahrenen Teammitglieder engagieren sich besonders in der projektorientiert
 
 Das Team lädt regelmäßig zu Kolloquien und anderen Veranstaltungen ein, zu der interessierte Studierende, Wissenschaftler und Unternehmer herzlich eingeladen sind!
 
-{% for author in site.data.authors %}
- {% if author[1].title %}
-  {{ author[1].title }}
- {% endif %}
-  
- {% if author[1].name %}
-  {{ author[1].name }}
- {% endif %}
-  
- {% if author[1].projekt %}
-  {{ author[1].projekt }}
- {% endif %}
-
- {% if author[1].url_full %}
-  {{ author[1].url_full }}
- {% endif %}
-
- {% if author[1].email %}
-  {{ author[1].email }}
- {% endif %}
-
- {% if author[1].picture %}
-  <img src="/{{ author[1].picture }}">
- {% endif %}
-{% endfor %}
+<div class="post-feed">{%  include employee-card.html %}</div>

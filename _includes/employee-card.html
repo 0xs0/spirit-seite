@@ -1,0 +1,30 @@
+{% for post in site.posts %}
+    {% if post.job-title %}
+        <article class="post-card {{ page.class }}{% unless post.cover %} no-image{% endunless %}">
+            {% if post.cover %}
+                <a class="post-card-image-link" href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">
+                    <div class="post-card-image" style="background-image: url({{ site.baseurl }}{{ post.cover }})"></div>
+                </a>
+            {% endif %}
+            <div class="post-card-content">
+                <a class="post-card-content-link" href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">
+                    <header class="post-card-header">
+                        {% if post.job-title.size > 0 %}
+                            {% for tag in post.job-title %}
+                                {% if forloop.index == post.job-title.size %}
+                                    <span class="post-card-tags">{{ job-title | capitalize }}</span>
+                                {% else %}
+                                   <span class="post-card-tags">{{ job-title | capitalize }}</span>
+                                {% endif %}
+                            {% endfor %}
+                        {% endif %}
+                        <h3 class="post-card-title">{{ post.title }}</h3>
+                    </header>
+                    <section class="post-card-excerpt">
+                        <p>{{ post.content | strip_html | truncatewords: 20, " [...]" }}</p>
+                    </section>
+                </a>
+            </div>
+        </article>
+    {% endif %}
+{% endfor %}
