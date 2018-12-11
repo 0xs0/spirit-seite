@@ -161,6 +161,7 @@ body {
     padding: 0;
     font-size: 3.8rem;
     font-weight: 700;
+    color: #fff;
 }
 
 .site-logo {
@@ -517,41 +518,41 @@ The first (most recent) post in the list is styled to be bigger than the others 
  */
 
 @media (min-width: 795px) {
-    .home-template .post-feed .post-card:nth-child(6n+1):not(.no-image) {
+    .home-template .post-feed .post-card:nth-child(200n+1):not(.no-image) {
         flex: 1 1 100%;
         flex-direction: row;
     }
 
-    .home-template .post-feed .post-card:nth-child(6n+1):not(.no-image) .post-card-image-link {
+    .home-template .post-feed .post-card:nth-child(200n+1):not(.no-image) .post-card-image-link {
         position: relative;
         flex: 1 1 auto;
         border-radius: 5px 0 0 5px;
     }
 
-    .home-template .post-feed .post-card:nth-child(6n+1):not(.no-image) .post-card-image {
+    .home-template .post-feed .post-card:nth-child(200n+1):not(.no-image) .post-card-image {
         position: absolute;
         width: 100%;
         height: 100%;
     }
 
-    .home-template .post-feed .post-card:nth-child(6n+1):not(.no-image) .post-card-content {
+    .home-template .post-feed .post-card:nth-child(200n+1):not(.no-image) .post-card-content {
         flex: 0 1 357px;
     }
 
-    .home-template .post-feed .post-card:nth-child(6n+1):not(.no-image) h2 {
+    .home-template .post-feed .post-card:nth-child(200n+1):not(.no-image) h2 {
         font-size: 2.6rem;
     }
 
-    .home-template .post-feed .post-card:nth-child(6n+1):not(.no-image) p {
+    .home-template .post-feed .post-card:nth-child(200n+1):not(.no-image) p {
         font-size: 1.8rem;
         line-height: 1.55em;
     }
 
-    .home-template .post-feed .post-card:nth-child(6n+1):not(.no-image) .post-card-content-link {
+    .home-template .post-feed .post-card:nth-child(200n+1):not(.no-image) .post-card-content-link {
         padding: 30px 40px 0;
     }
 
-    .home-template .post-feed .post-card:nth-child(6n+1):not(.no-image) .post-card-meta {
+    .home-template .post-feed .post-card:nth-child(200n+1):not(.no-image) .post-card-meta {
         padding: 0 40px 30px;
     }
 }
@@ -1616,9 +1617,9 @@ Usage (In Ghost editor):
 .site-header-content .author-profile-image {
     z-index: 10;
     flex-shrink: 0;
-    margin: 0 0 20px 0;
-    width: 100px;
-    height: 100px;
+    margin: 0 0 60px 0;
+    width: 200px;
+    height: 200px;
     box-shadow: rgba(255,255,255,0.1) 0 0 0 6px;
 }
 
