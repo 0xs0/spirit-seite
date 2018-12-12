@@ -1,0 +1,24 @@
+{% for post in site.posts %}
+    {% if post.tags contains "Journalartikel" %}
+        <article class="post-card-pubs {{ page.class }}{% unless post.cover %} no-image{% endunless %}">
+            {% if post.cover %}
+                <div class="post-card-image" style="background-image: url({{ site.baseurl }}{{ post.cover }})"></div>
+            {% endif %}
+            <div class="post-card-content">
+                <div class="post-card-content-link">
+                    <header class="post-card-header">
+                        {% if post.author.size > 0 %}
+                            {% for tag in post.author %}
+                                <span class="post-card-author">{{ tag | capitalize }}</span>
+                            {% endfor %}
+                        {% endif %}
+                        <h3 class="post-card-title">{{ post.title }}</h3>
+                    </header>
+                    <section class="post-card-excerpt">
+                        <p>{{ post.content | strip_html | truncatewords: 20, " [...]" }}</p>
+                    </section>
+                </div>
+            </div>
+        </article>
+    {% endif %}
+{% endfor %}

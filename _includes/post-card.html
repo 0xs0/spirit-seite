@@ -1,5 +1,5 @@
 {% for post in paginator.posts %}
-    {% unless post.tags contains "Projekt" or post.tags contains "Mitarbeiter" %}
+    {% unless post.tags contains "Projekt" or post.tags contains "Mitarbeiter" or post.tags contains "Journalartikel" or post.tags contains "Monographie" %}
         <article class="post-card {{ page.class }}{% unless post.cover %} no-image{% endunless %}">
             {% if post.cover %}
                 <a class="post-card-image-link" href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">
