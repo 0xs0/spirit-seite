@@ -4,8 +4,8 @@
   url: forschungsgruppe
 - title: Projekte
   sublinks:
-    - title: Laufende
-      url: projekte/laufende
+    - title: Aktuelle
+      url: projekte/aktuelle
     - title: Abgeschlossene
       url: projekte/abgeschlossene
 - title: Publikationen

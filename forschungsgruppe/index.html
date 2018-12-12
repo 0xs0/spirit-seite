@@ -7,16 +7,7 @@ navigation: True
 
 <header class="site-header outer">
     <div class="inner">
-        <div class="site-header-content">
-            <h1 class="site-title">
-                {% if site.logo %}
-                    <img class="site-logo" src="{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }}"/>
-                {% else %}
-                    {{ site.title }}
-                {% endif %}
-            </h1>
-            <h2 class="site-description">{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}</h2>
-        </div>
+    
         {% include site-nav.html %}
     </div>
 </header>
@@ -24,11 +15,25 @@ navigation: True
 <!-- The main content area -->
 <main id="site-main" class="site-main outer" role="main">
     <div class="inner">
+
+            <header class="post-full-header">
+                <h1 class="post-full-title">Forschungsgruppe SPiRIT<br><br></h1>
+            </header>
+         <figure class="post-full-image" style="background-image: url(/assets/images/Forschungsgruppe/10_Groß.jpg)">
+            </figure>
             <section class="post-full-content">
                 <div class="kg-card-markdown">
-                    Die Forschungsgruppe SPiRIT – Sciene Projects in Radio and Information Technology 
+                   <p> Die Forschungsgruppe SPiRIT – Sciene Projects in Radio and Information Technology ist eine interdisziplinäre Einrichtung des Instituts für Management und des Instituts für Elektrotechnik der Hochschule Magdeburg-Stendal. Sie wurde im Sommer 2012 von Michael Herzog und Olaf Friedewald als ThinkTank und Projektschmiede gegründet.<br> <br>
 
-                    ist eine interdisziplinäre Einrichtung des Instituts für Management und des Instituts für Elektrotechnik der Hochschule Magdeburg-Stendal. Sie wurde im Sommer 2012 von Michael Herzog und Olaf Friedewald als ThinkTank und Projektschmiede gegründet.
+                    Im Mittelpunkt stehen derzeit innovative Lösungen im Bereich von Radio Frequency Identification (RFID), SocialMedia und Webtechnologien, sowie Prozess- und Content Engineering. Außerdem werden Forschungsvorhaben zum Lehren und Lernen mit Digitalen Medien umgesetzt.
+                    <br> <br>
+
+                    Die Arbeit der Forschungsgruppe SPiRIT stützt sich hauptsächlich auf drittmittelgeförderte Projekte in Zusammenarbeit mit Unternehmen und anderen Forschungseinrichtungen. Sie fördert die interdisziplinäre Arbeit junger WissenschaftlerInnen und motivierter Studierender, etwa mit der exzellenten Betreuung von Forschungs- und Entwicklungsprojekten.
+                    <br> <br>
+                    Die erfahrenen Teammitglieder engagieren sich besonders in der projektorientierten Lehre. Sie vermitteln auch die Grundlagen ihrer jeweiligen Arbeitsgebiete, häufig auch in anderen Fachdiziplinen.
+                    <br> <br>
+                    Das Team lädt regelmäßig zu Kolloquien und anderen Veranstaltungen ein, zu der interessierte Studierende, Wissenschaftler und Unternehmer herzlich eingeladen sind!</p>
+
                 </div>
             </section>
         <div class="post-feed">
