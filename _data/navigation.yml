@@ -1,19 +1,19 @@
 - title: Home
-  url:
+  url: index.html
 - title: Forschungsgruppe
-  url: forschungsgruppe
+  url: forschungsgruppe.html
 - title: Projekte
   sublinks:
     - title: Aktuelle
-      url: projekte/aktuelle
+      url: aktuelle.html
     - title: Abgeschlossene
-      url: projekte/abgeschlossene
+      url: abgeschlossene.html
 - title: Publikationen
   sublinks:
     - title: Monographien
-      url: publikationen/monographien
+      url: monographien.html
     - title: Journalartikel
-      url: publikationen/journalartikel
+      url: journalartikel.html
 - title: Studium
   sublinks:
     - title: Cross Media
@@ -21,4 +21,4 @@
     - title: Elektrotechnik
       url: /www.hs-magdeburg.de/studium/master/elektrotechnik.html
 - title: Kontakt
-  url: kontakt
+  url: kontakt.html
