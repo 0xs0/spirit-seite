@@ -12,9 +12,9 @@
                         {% if post.job-title.size > 0 %}
                             {% for tag in post.job-title %}
                                 {% if forloop.index == post.job-title.size %}
-                                    <span class="post-card-tags">{{ job-title | capitalize }}</span>
+                                    <span class="post-card-tags">{{ tag | capitalize }}</span>
                                 {% else %}
-                                   <span class="post-card-tags">{{ job-title | capitalize }}</span>
+                                   <span class="post-card-tags">{{ tag | capitalize }}</span>
                                 {% endif %}
                             {% endfor %}
                         {% endif %}
