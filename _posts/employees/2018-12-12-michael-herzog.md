@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: employee
 current: post
 cover: 'assets/images/Mitarbeiterfotos/herzog.jpg'
 navigation: True
@@ -9,9 +9,6 @@ tags: Mitarbeiter
 class: post-template
 email: michael.herzog@hs-magdeburg.de
 ---
-  
-Wissenschaftlicher Leiter  
-
 
 Michael has a tenured professorship for Information Systems Engineering at Magdeburg-Stendal University of Applied Sciences in Germany. He is the head of SPiRIT research group and Vice Dean for Research at School of Economics. Additionally, he was guest faculty at the department of Computer Science at Old Dominion University Norfolk, Virginia and works as associated researcher of the
 
