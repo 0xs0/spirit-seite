@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: 'assets/images/posts/thermoelektrische-materialien.jpg'
+cover: 'assets/images/posts/thermoelektrischematerialien.jpg'
 navigation: True
 title: Thermoelektrische Materialien für die Wärmerückgewinnung
 tags: Veranstaltung

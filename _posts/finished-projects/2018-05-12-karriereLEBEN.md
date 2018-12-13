@@ -3,7 +3,7 @@ layout: post
 current: post
 navigation: true
 title: Projekt karriereLEBEN
-cover: 'assets/images/karriereLEBEN/kL-vorlaeufig.jpg'
+cover: 'assets/images/karriereleben/kl-vorlaeufig.jpg'
 class: post-template
 subclass: 'post page'
 tags: finished Projekt

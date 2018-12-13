@@ -3,7 +3,7 @@ layout: post
 current: post
 navigation: true
 title: Kontextsensitive Kommunikationstechnik
-cover: 'assets/images/Extended-Exhibition/EE.jpg'
+cover: 'assets/images/extended-exhibition/ee.jpg'
 class: post-template
 subclass: 'post page'
 tags: finished Projekt

@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: 'assets/images/posts/Symposium.jpg'
+cover: 'assets/images/posts/symposium.jpg'
 navigation: True
 title: Symposium »Die Einheit von Forschung und Lehre im digitalen Zeitalter«
 tags: Veranstaltung
