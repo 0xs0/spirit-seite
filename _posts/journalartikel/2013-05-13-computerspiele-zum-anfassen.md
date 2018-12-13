@@ -2,7 +2,7 @@
 layout: post
 current: post
 navigation: True
-title: Computerspiele zum Anfassen: Ein digital-analoger Baukasten für Brettspiele.
+title: Computerspiele zum Anfassen&#58; Ein digital-analoger Baukasten für Brettspiele.
 author: Krause, R., Haase, M., Hatscher, B., Herzog, M., Goutrié, C.
 tags: Journalartikel
 class: post-template

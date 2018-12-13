@@ -3,7 +3,7 @@ layout: post
 current: post
 navigation: True
 title: Digital Collaboration – Veränderung der Mediennutzung in interuniversitären Lerngruppen
-author: Katzlinger, E., Herzog, M.:
+author: Katzlinger, E., Herzog, M.
 tags: Journalartikel
 class: post-template
 ---
