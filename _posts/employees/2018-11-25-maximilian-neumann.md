@@ -1,7 +1,7 @@
 ---
 layout: employee
 current: post
-cover: 'assets/images/mitarbeiterfotos/Neumann.jpg'
+cover: 'assets/images/mitarbeiterfotos/neumann.jpg'
 navigation: True
 title: Maximilian Neumann
 job-title: Studentische Hilfskraft
