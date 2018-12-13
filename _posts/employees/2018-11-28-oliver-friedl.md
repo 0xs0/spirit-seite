@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: employee
 current: post
-cover: 'assets/images/Mitarbeiterfotos/friedl.jpg'
+cover: 'assets/images/mitarbeiterfotos/friedl.jpg'
 navigation: True
 title: Oliver Friedl
 job-title: Studentische Hilfskraft

@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: employee
 current: post
-cover: 'assets/images/Mitarbeiterfotos/batz.jpg'
+cover: 'assets/images/mitarbeiterfotos/batz.jpg'
 navigation: True
 title: Victoria Batz
 job-title: Stv. Leiter, Organisation

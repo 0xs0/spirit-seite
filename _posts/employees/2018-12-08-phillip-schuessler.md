@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: employee
 current: post
-cover: 'assets/images/Mitarbeiterfotos/schueßler.jpg'
+cover: 'assets/images/mitarbeiterfotos/schueßler.jpg'
 navigation: True
 title: Philipp Schüßler
 job-title: Leitung Lab, Scientific Resource Manager

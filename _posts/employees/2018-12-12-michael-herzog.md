@@ -1,7 +1,7 @@
 ---
 layout: employee
 current: post
-cover: 'assets/images/Mitarbeiterfotos/herzog.jpg'
+cover: 'assets/images/mitarbeiterfotos/herzog.jpg'
 navigation: True
 title: Michael Herzog
 job-title: Wissenschaftlicher Leiter

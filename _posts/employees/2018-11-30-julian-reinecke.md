@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: employee
 current: post
-cover: 'assets/images/Mitarbeiterfotos/reinecke.jpg'
+cover: 'assets/images/mitarbeiterfotos/reinecke.jpg'
 navigation: True
 title: Julian Reinecke
 job-title: Studentische Hilfskraft

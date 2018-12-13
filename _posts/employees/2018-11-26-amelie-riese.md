@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: employee
 current: post
-cover: 'assets/images/Mitarbeiterfotos/riese.jpg'
+cover: 'assets/images/mitarbeiterfotos/riese.jpg'
 navigation: True
 title: Amelie Riese
 job-title: Studentische Hilfskraft

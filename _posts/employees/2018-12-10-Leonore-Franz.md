@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: employee
 current: post
-cover: 'assets/images/Mitarbeiterfotos/franz.jpg'
+cover: 'assets/images/mitarbeiterfotos/franz.jpg'
 navigation: True
 title: Leonore Franz
 job-title: Stv. Leiter, Organisation

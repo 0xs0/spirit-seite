@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: employee
 current: post
-cover: 'assets/images/Mitarbeiterfotos/gustavs.jpg'
+cover: 'assets/images/mitarbeiterfotos/gustavs.jpg'
 navigation: True
 title: Simon Gustavs
 job-title: Studentische Hilfskraft

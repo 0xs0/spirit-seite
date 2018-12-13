@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: employee
 current: post
-cover: 'assets/images/Mitarbeiterfotos/friedewald.jpg'
+cover: 'assets/images/mitarbeiterfotos/friedewald.jpg'
 navigation: True
 title: Olaf Friedewald
 job-title: Wissenschaftlicher Leiter

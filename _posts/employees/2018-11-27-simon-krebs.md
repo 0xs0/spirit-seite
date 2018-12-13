@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: employee
 current: post
-cover: 'assets/images/Mitarbeiterfotos/krebs.jpg'
+cover: 'assets/images/mitarbeiterfotos/krebs.jpg'
 navigation: True
 title: Simon Krebs
 job-title: Studentische Hilfskraft

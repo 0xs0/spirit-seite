@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: employee
 current: post
-cover: 'assets/images/Mitarbeiterfotos/ahlers.jpg'
+cover: 'assets/images/mitarbeiterfotos/ahlers.jpg'
 navigation: True
 title: Janet Ahlers
 job-title: Studentische Hilfskraft

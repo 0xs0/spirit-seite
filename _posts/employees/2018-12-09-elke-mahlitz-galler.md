@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: employee
 current: post
-cover: 'assets/images/Mitarbeiterfotos/galler.jpg'
+cover: 'assets/images/mitarbeiterfotos/galler.jpg'
 navigation: True
 title: Elke Mählitz-Galler
 job-title: Stv. Leiter

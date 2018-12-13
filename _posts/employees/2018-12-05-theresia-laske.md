@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: employee
 current: post
-cover: 'assets/images/Mitarbeiterfotos/laske.jpg'
+cover: 'assets/images/mitarbeiterfotos/laske.jpg'
 navigation: True
 title: Theresia Laske
 job-title: HR Managment

@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: employee
 current: post
-cover: 'assets/images/Mitarbeiterfotos/magarin.jpg'
+cover: 'assets/images/mitarbeiterfotos/magarin.jpg'
 navigation: True
 title: Klaus Magarin
 job-title: Beschaffung, Inventar
