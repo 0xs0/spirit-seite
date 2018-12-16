@@ -7,8 +7,9 @@ title: Simon Gustavs
 job-title: Studentische Hilfskraft
 tags: Mitarbeiter
 class: post-template
-email: 
+email: simon.gustavs@gast.h2.de
 ---
   
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Simon Gustavs arbeitet als Studentische Hilfskraft im Projekt NachLEBEN. Hauptsächlich kümmert er sich um die Pflegung der Spirit-Website und der Erstellung von jeglichen Umfragen.
 
+Zurzeit Studiert er an der Otto-von-Guericke Universität Informatik und schließt den Bachlor vorraussichtlich im März 2021 ab.

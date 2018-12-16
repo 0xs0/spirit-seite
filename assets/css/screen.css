@@ -208,15 +208,15 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
-    /*overflow-y: hidden;*/
     height: 40px;
-    font-size: 1.2rem;
+    font-size: 1.4rem;
+    font-weight: bold;
 }
 
 .site-nav-left {
     display: flex;
     align-items: top;
-    overflow-x: auto;
+    overflow-x: auto
     overflow-y: hidden;
     -webkit-overflow-scrolling: touch;
     margin-right: 10px;

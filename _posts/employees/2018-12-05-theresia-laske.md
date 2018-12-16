@@ -10,5 +10,10 @@ class: post-template
 email: theresia.laske@hs-magdeburg.de
 ---
   
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Theresia Laske arbeitet als wissenschaftliche Mitarbeiterin im Projekt ROLAND – Regionaler Online-Handel. Das Projekt ROLAND möchte mit der Entwicklung eines passfähigen regionalen Online-Marktplatzes die Voraussetzungen schaffen, dass Inhaber von Ladengeschäften aus der Altmark stärker von dem bisher eher überregional organisierten Trend zum Online-Handel profitieren.
+
+Theresia Laske sammelte Abschlüsse in den Studiengängen Internationales Management (B.Sc.) und Business Economics (M.Sc.) und bringt so ihre betriebswirtschaftlichen Kenntnisse in das Projekt ROLAND ein.
+
+Nach einer dreijährigen Tätigkeit in der freien Wirtschaft, wechselte Theresia Laske zur Hochschule Magdeburg-Stendal als Dekanatsassistenz am Fachbereich Wirtschaft, bevor sie im Oktober 2017 die Koordinierung des Projektes ROLAND übernahm.
+
 

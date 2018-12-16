@@ -14,7 +14,7 @@ subclass: 'post page'
 	</div>
 	<div class="column-2">
 		Telefon: 0391 886 4805<br>
-		spirit@hs-magdeburg.de<br>
+		spirit@h2.de<br>
 	</div>
 	<div class="column-3">
 		<b>Standort Stendal</b>
