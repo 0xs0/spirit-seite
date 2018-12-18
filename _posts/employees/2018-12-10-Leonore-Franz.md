@@ -10,5 +10,5 @@ class: post-template
 email: leonore.franz@hs-magdeburg.de
 ---
   
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Leonore ist wissenschaftliche Mitarbeiterin im Projekt Qualitätspakt Lehre an der Hochschule Magdeburg-Stendal. Ihre Arbeitsgebiete sind die Internationalisierung der Lehr- und Betreuungsangebote am Fachbereich Wirtschaft sowie die Entwicklung eines neuen Masterstudiengangs. Leonore ist außerdem Teil des Crossteaching-Projektes, einer Lehr- und Lernkooperation mit der Universität Linz, Österreich. Als Public Policy Absolventin (M.A., Universität Erfurt) sammelte sie internationale Erfahrung durch Studien- und Arbeitsaufenthalte in Russland, Griechenland, Italien, Malta und Ägypten. Des weiteren arbeitet sie an einer Dissertation zur strategischen Internationalisierung und Hochschulgovernance.
 

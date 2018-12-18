@@ -10,5 +10,7 @@ class: post-template
 email: victoria.batz@gmail.de
 ---
   
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Als wissenschaftliche Mitarbeiterin arbeitet Victoria Batz seit September 2018 im Drittelmittelprojekt IKKE – Inklusive Küche 4.0. Mit ihrem geisteswissenschaftlichen Hintergrund ist sie für die Entwicklung eines Lernkonzeptes zuständig, dass Auszubildenden in der Aus- und Weiterbildung einen individuellen Zugang zu Inhalten und praktischen Arbeiten ermöglicht. Als Interaction Designerin erforscht sie darüber hinaus technische Möglichkeiten zur Umsetzung eines digitalen Assistenzsystems für einen inklusiven Bildungsansatz.
+Im Bachelor Studiengang Industrie Design lehrt Frau Batz das Modul Medientheorie, Mediendiskurs und Mediengeschichte.
+
 
