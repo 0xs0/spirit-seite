@@ -4,7 +4,7 @@ current: post
 cover: 'assets/images/mitarbeiterfotos/batz.jpg'
 navigation: True
 title: Victoria Batz
-job-title: Stv. Leiter, Organisation
+job-title: Organisation
 tags: Mitarbeiter
 class: post-template
 email: victoria.batz@gmail.de

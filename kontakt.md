@@ -13,8 +13,9 @@ subclass: 'post page'
 		Haus 7, Raum 1.10<br>
 	</div>
 	<div class="column-2">
-		Telefon: 0391 886 4805<br>
+		Telefon: 0391 886 3813<br>
 		spirit@h2.de<br>
+		Wir sind ab dem 7.1.2019 für sie wieder da.<br>
 	</div>
 	<div class="column-3">
 		<b>Standort Stendal</b>

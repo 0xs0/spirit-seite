@@ -1,10 +1,10 @@
 ---
 layout: employee
 current: post
-cover: 'assets/images/mitarbeiterfotos/franz.jpg'
+cover: 'assets/images/mitarbeiterfotos/franz.JPG'
 navigation: True
 title: Leonore Franz
-job-title: Stv. Leiter, Organisation
+job-title: Organisation
 tags: Mitarbeiter
 class: post-template
 email: leonore.franz@hs-magdeburg.de
