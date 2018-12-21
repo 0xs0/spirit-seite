@@ -5,6 +5,8 @@ class: page-template
 subclass: 'post page'
 ---
 
+
+
 <div class="container">
 	<div class="column-1">
 		<b>Standort Magdeburg</b>
@@ -14,8 +16,8 @@ subclass: 'post page'
 	</div>
 	<div class="column-2">
 		Telefon: 0391 886 3813<br>
-		spirit@h2.de<br>
-		Wir sind ab dem 7.1.2019 für sie wieder da.<br>
+		spirit@hs-magdeburg.de<br>
+		Wir sind ab dem 7.1.2019 wieder für sie da.<br>
 	</div>
 	<div class="column-3">
 		<b>Standort Stendal</b>

@@ -3,8 +3,8 @@ layout: employee
 current: post
 cover: 'assets/images/mitarbeiterfotos/batz.jpg'
 navigation: True
-title: Victoria Batz
-job-title: Organisation
+title: Victoria Batz, M.A.
+job-title: Wissenschaftlerin Digitalisierung & Inklusion
 tags: Mitarbeiter
 class: post-template
 email: victoria.batz@gmail.de

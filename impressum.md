@@ -1,8 +1,9 @@
 ---
 layout: page
 current: impressum
-class: 'page-template'
 navigation: True
+class: page-template
+subclass: 'post page'
 ---
 
 Herausgeber:
@@ -25,7 +26,7 @@ Telefon: 03931 2187 4805
 
 Telefax: 03931 2187 4880
 
-E-Mail: michael.herzog@h2.de
+E-Mail: michael.herzog@hs-magdeburg.de
 
 Internet: www.spirit.hs-magdeburg.de
 

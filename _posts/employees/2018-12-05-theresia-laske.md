@@ -3,8 +3,8 @@ layout: employee
 current: post
 cover: 'assets/images/mitarbeiterfotos/laske.jpg'
 navigation: True
-title: Theresia Laske
-job-title: HR Managment
+title: Theresia Laske, M.Sc.
+job-title: Wissenschafterin, Elektronische Marktplätze & Regionalentwicklung
 tags: Mitarbeiter
 class: post-template
 email: theresia.laske@hs-magdeburg.de

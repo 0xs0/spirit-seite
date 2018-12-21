@@ -3,8 +3,8 @@ layout: employee
 current: post
 cover: 'assets/images/mitarbeiterfotos/schuessler.jpg'
 navigation: True
-title: Philipp Schüßler
-job-title: Leitung Lab, Scientific Resource Manager
+title: Philipp Schüßler, M.Ed.
+job-title: Wissenschaftler Informatik, Nachhaltigkeit & Bildung
 tags: Mitarbeiter
 class: post-template
 email: philipp.schuessler@hs-magdeburg.de

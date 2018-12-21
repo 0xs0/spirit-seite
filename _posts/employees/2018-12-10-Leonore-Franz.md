@@ -3,8 +3,8 @@ layout: employee
 current: post
 cover: 'assets/images/mitarbeiterfotos/franz.JPG'
 navigation: True
-title: Leonore Franz
-job-title: Organisation
+title: Leonore Franz, M.A.
+job-title: Wissenschaftlerin, Internationales & Digitalisierung
 tags: Mitarbeiter
 class: post-template
 email: leonore.franz@hs-magdeburg.de

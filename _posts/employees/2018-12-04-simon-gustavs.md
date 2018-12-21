@@ -4,7 +4,7 @@ current: post
 cover: 'assets/images/mitarbeiterfotos/gustavs.JPG'
 navigation: True
 title: Simon Gustavs
-job-title: Studentische Hilfskraft
+job-title: Studentischer Mitarbeiter
 tags: Mitarbeiter
 class: post-template
 email: simon.gustavs@gast.h2.de

@@ -3,7 +3,7 @@ layout: employee
 current: post
 cover: 'assets/images/mitarbeiterfotos/friedewald.jpg'
 navigation: True
-title: Olaf Friedewald
+title: Prof. Dr.-Ing. Olaf Friedewald
 job-title: Wissenschaftlicher Leiter
 tags: Mitarbeiter
 class: post-template
