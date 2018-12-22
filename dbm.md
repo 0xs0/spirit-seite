@@ -79,6 +79,7 @@ Die Verbindung von praxisnaher und wissenschaftlich fundierter Lehre hilft Ihnen
 - Bewerbung: 31.03./30.09.
 - Studiengebühren: 1.950 €/Semester (bis zu 90% förderfähig), plus 47,00 € Semesterbeitrag
 - Finanzierung: Mehr dazu auf [CrossMedia](http://www.ma-crossmedia.de/index.php?f=Studium&s=Finanzierung)
+- Modulhandbücher für [DBM](assets/pdf/dbm/modulblätter_dbm.pdf) und [DBM mit Schwerpunkt Digitale Transformation im Gesundheitswesen](assets/pdf/dbm/modulblätter_gesundheit.pdf)
 
 ###### Bewerbung:
 
@@ -91,7 +92,8 @@ Interessenten schicken folgende Dokumente per Post bis zum 15.03.19 an die Hochs
 - Nachweis Englisch B2 (GER)
 - Nachweis ein Jahr Berufspraxis
 
-Außerdem schicken Sie bitte Ihr [Kompetenzportfolio](assets/pdf/dbm/vorlage_dbm_kompetenzportfolio.doc) per Mail an klaus.magarin@hs-magdeburg.de. Die Anleitung dazu finden Sie [hier](assets/pdf/dbm/erstellung_kompetenzportfolio.pdf).
+Außerdem schicken Sie bitte Ihr [Kompetenzportfolio](assets/pdf/dbm/vorlage_dbm_kompetenzportfolio.doc) per Mail an klaus.magarin@hs-magdeburg.de.  
+Die Anleitung dazu finden Sie [hier](assets/pdf/dbm/erstellung_kompetenzportfolio_dbm.pdf).
 
 
 Kontakt

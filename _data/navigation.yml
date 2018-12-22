@@ -10,13 +10,13 @@
       url: abgeschlossene.html
 - title: Publikationen
   sublinks:
-    - title: Monographien
-      url: monographien.html
-    - title: Journalartikel
-      url: journalartikel.html
+    - title: Bücher
+      url: buecher.html
+    - title: Fachartikel
+      url: fachartikel.html
 - title: Studium
   sublinks:
-    - title: Digital Buisness Managment
+    - title: Digital Business Managment
       url: dbm.html
     - title: Cross Media
       url: http://www.ma-crossmedia.de/
